@@ -5,3 +5,10 @@
     padding: 10px;
     text-align: center;
 }
+input[type=text] {
+    background-color: white;
+    background-image: url("/images/outline_search_black_24dp.png");
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+}

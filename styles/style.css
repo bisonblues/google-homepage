@@ -7,8 +7,8 @@
 }
 input[type=text] {
     background-color: white;
-    background-image: url("/images/outline_search_black_24dp.png");
-    background-position: 10px 10px;
-    background-repeat: no-repeat;
+    background-image: url("/images/outline_search_black_24dp.png"), url("/images/outline_apps_black_24dp.png");
+    background-position: left top, right top;
+    background-repeat: no-repeat, no-repeat;
     padding-left: 40px;
 }

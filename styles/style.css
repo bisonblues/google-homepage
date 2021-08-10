@@ -1,3 +1,4 @@
+
 .searcharea {
     margin: auto;
     width: 50%;
@@ -11,4 +12,22 @@ input[type=text] {
     background-position: left top, right top;
     background-repeat: no-repeat, no-repeat;
     padding-left: 40px;
+}
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.nav li {
+    float: left;
+}
+.nav a {
+    display: inline;
+    padding: 8px;
+}
+#sign-in {
+    color: white;
+    background-color:  #4285f4;
+    font-weight: bold;
+    outline: none;
 }
